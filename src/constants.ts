@@ -1,0 +1,2 @@
+export const BOTTOMBAR_NAVIGATOR = '$$BOTTOMBAR';
+export const SIDEBAR_NAVIGATOR = '$$SIDEBAR';
